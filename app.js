@@ -15,7 +15,7 @@ async function downloadImage(url, filename) {
   console.log(`downloaded ${filename}`);
 }
 
-let next = 40106098;
+let next = 40116273;
 
   async function getImgs(){
         const initialUrl = `https://www.wwe.com/api/gallery/${next}/0/0/0`;
